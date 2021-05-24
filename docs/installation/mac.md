@@ -25,7 +25,7 @@ nav_order: 4
 - [swig](http://www.swig.org/): used for building Python bindings.
 
 ```
-  brew install boost gdal libomp expat bzip2
+  brew install boost gdal libomp expat bzip2 swig
 ```
 
 ## Install C++ program and Python bindings
